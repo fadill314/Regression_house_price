@@ -1,5 +1,5 @@
 numpy
-scikit-learn
+sklearn=1.2.1
 request
 pickle
 Flask
