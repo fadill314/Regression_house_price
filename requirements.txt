@@ -1,7 +1,5 @@
 numpy
-sklearn==1.2.1
-request
-pickle
 Flask
 gunicorn
 Jinja2
+scikit-learn=1.2.1
